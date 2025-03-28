@@ -33,7 +33,7 @@
     "test": "mocha --exit --timeout 20000 test/"
   },
   "dependencies": {
-    "send": "^0.18.0",
+    "send": "^0.19.0",
     "server-destroy": "^1.0.1"
   },
   "peerDependencies": {
